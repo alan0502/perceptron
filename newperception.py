@@ -1,5 +1,4 @@
 from cgitb import text
-#from distutils.cmd import Command
 from sqlite3 import Row
 from tkinter import filedialog
 from tkinter import*
