@@ -26,3 +26,6 @@ The project supports various datasets for evaluating the model.
 9. 2CS.txt
 10. 2Hcircle1.txt
 11. 2ring.txt
+
+### How to Run
+Run the Python code at newperceptron.py.
